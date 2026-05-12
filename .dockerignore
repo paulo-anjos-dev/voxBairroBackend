@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Dependencies
+node_modules/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# Python cache
+**/__pycache__/
+**/*.py[cod]
+
+# Environment variables
+.env
+*.env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Databases/Storage
+data/
+mongo-data/
+redis-data/
+uploads/
+temp/
+
+# Documentation
+README.md
+docs/
