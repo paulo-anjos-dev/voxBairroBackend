@@ -32,6 +32,7 @@ logs/
 data/
 mongo-data/
 redis-data/
+evolution-api/
 uploads/
 temp/
 
